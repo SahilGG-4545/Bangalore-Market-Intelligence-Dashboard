@@ -6,7 +6,7 @@ This project is a decision-support dashboard built for Autopilot Offices. It hel
 ## Demo: [https://marketinsightz.streamlit.app/]
 
 
-<img src="docs/Architecture.png" alt="Architecture" height="520" width="300">
+<img src="docs/architecture1.png" alt="Architecture" height="520" width="300">
 
 ### Key Features
 - **Market Overview & Comparison**: Compare micro-markets across Bangalore using data like supply, vacancy, and average asking rent.
