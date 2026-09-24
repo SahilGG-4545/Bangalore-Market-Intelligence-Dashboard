@@ -2,7 +2,11 @@
 
 This project is a decision-support dashboard built for Autopilot Offices. It helps the leadership team analyze commercial real estate data to determine where the company should expand next in Bangalore. The system turns raw, imperfect business data into actionable market intelligence, backed by real evidence.
 
-![Architecture](docs/architecture.png)
+
+## Demo: [https://marketinsightz.streamlit.app/]
+
+
+<img src="docs/Architecture.png" alt="Architecture" height="520" width="300">
 
 ### Key Features
 - **Market Overview & Comparison**: Compare micro-markets across Bangalore using data like supply, vacancy, and average asking rent.
