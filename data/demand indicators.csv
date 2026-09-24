@@ -1,0 +1,31 @@
+﻿Micro-market,Quarter,Year,Leasing Activity (sq ft),Transaction Count,Avg. Transaction Size (sq ft),Major Occupiers,Est. Employee/Seat Demand
+ORR,Q1,2025,3488100,4,164556,"American Express, Amazon, Publicis, Nutanix",58135
+ORR,Q2,2025,1552176,2,196500,"Capgemini, Synopsys",25870
+ORR,Q3,2025,1815741,1,329566,Wells Fargo,30262
+ORR,Q4,2025,4338380,1,174000,Disney,72306
+ORR,Q1,2026,2987211,2,338500,"Smartworks, Tablespace",49787
+ORR,Q2,2026,2098403,3,343667,"Volvo, Ericsson, Expedia",34973
+Whitefield,Q1,2025,306328,0,N/A,N/A,5105
+Whitefield,Q2,2025,941346,0,N/A,N/A,15689
+Whitefield,Q3,2025,730758,1,100000,Vidal Health,12179
+Whitefield,Q4,2025,1763970,1,264000,Swiggy,29400
+Whitefield,Q1,2026,1093500,2,220000,"Beckman Coulter, Caterpillar",18225
+Whitefield,Q2,2026,1624050,0,N/A,N/A,27068
+North,Q1,2025,201678,1,58932,Hitachi Energy,3361
+North,Q2,2025,156345,0,N/A,N/A,2606
+North,Q3,2025,437152,1,100000,Walmart,7286
+North,Q4,2025,167425,0,N/A,N/A,2790
+North,Q1,2026,392672,0,N/A,N/A,6545
+North,Q2,2026,180164,0,N/A,N/A,3003
+Electronic City,Q1,2025,422000,0,N/A,N/A,7033
+Electronic City,Q2,2025,1671123,2,793009,"TCS, Merck",27852
+Electronic City,Q3,2025,60436,0,N/A,N/A,1007
+Electronic City,Q4,2025,123186,0,N/A,N/A,2053
+Electronic City,Q1,2026,76819,0,N/A,N/A,1280
+Electronic City,Q2,2026,356683,1,118170,Sonata,5945
+Koramangala,Q1,2025,245275,0,N/A,N/A,4088
+Koramangala,Q2,2025,0,0,N/A,N/A,0
+Koramangala,Q3,2025,100225,0,N/A,N/A,1670
+Koramangala,Q4,2025,142216,0,N/A,N/A,2370
+Koramangala,Q1,2026,323759,0,N/A,N/A,5396
+Koramangala,Q2,2026,283330,0,N/A,N/A,4722

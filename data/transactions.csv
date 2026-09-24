@@ -1,0 +1,38 @@
+﻿Company,Micro-market,Area leased (sq ft),Quarter,Year,Rent (INR/sq ft/month),Sector,Expansion/New Entry,Lease Type,Source
+Applied Materials,Whitefield,806000,Q4,2024,74,Semiconductor equipment,Expansion,"Precommitment; 10-year lease","C&W; Realty Today"
+IBM,Suburban East,796000,Q4,2024,N/A,IT services,N/A,Term renewal,C&W
+Airbus,Whitefield,650000,Q4,2024,64,Aerospace,Expansion,Fresh lease,"C&W; CXO Digital Pulse; CRE Matrix"
+Texas Instruments,Suburban East,550000,Q4,2024,N/A,Semiconductors,N/A,Fresh lease,C&W
+Chevron,ORR,311920,Q4,2024,N/A,Energy,N/A,Fresh lease,C&W
+American Express,ORR,200000,Q1,2025,N/A,BFSI,N/A,Precommitment,C&W
+Amazon,ORR,196000,Q1,2025,N/A,Technology/e-commerce,N/A,Fresh lease,C&W
+Publicis,ORR,182000,Q1,2025,N/A,Advertising/marketing,N/A,Term renewal,C&W
+Nutanix,ORR,80225,Q1,2025,N/A,Software,N/A,Fresh lease,C&W
+Hitachi Energy,North,58932,Q1,2025,N/A,Energy/engineering,N/A,Fresh lease,C&W
+Apple India,Central,268000,Q2,2025,235,Technology/consumer electronics,Expansion,10-year lease,Storyboard18
+TCS,Electronic City,1400000,Q2,2025,66.5,IT services,Expansion,"Precommitment; 15-year lease","C&W; Storyboard18; Outlook Business"
+Capgemini,ORR,243000,Q2,2025,N/A,IT services,N/A,Fresh lease,C&W
+Merck,Electronic City,186018,Q2,2025,N/A,Pharma/life sciences,N/A,Fresh lease,C&W
+Synopsys,ORR,150000,Q2,2025,N/A,Chip-design software,N/A,Fresh lease,C&W
+Wells Fargo,ORR,329566,Q3,2025,N/A,BFSI,N/A,Fresh lease,C&W
+Lam Research,Suburban East,174800,Q3,2025,N/A,Semiconductor equipment,N/A,Fresh lease,C&W
+Walmart,North,100000,Q3,2025,N/A,Retail,N/A,Fresh lease,C&W
+Vidal Health,Whitefield,100000,Q3,2025,N/A,Healthcare services,N/A,Fresh lease,C&W
+Apple India,Central,121203,Q3,2025,235,Technology/consumer electronics,Expansion,10-year lease,Storyboard18
+Swiggy,Whitefield,264000,Q4,2025,N/A,Consumer internet,N/A,Fresh lease,C&W
+Tablespace,Suburban East,226992,Q4,2025,N/A,Flex/managed office,N/A,Fresh lease,C&W
+Disney,ORR,174000,Q4,2025,N/A,Media,N/A,Fresh lease,C&W
+Nike,Suburban East,126000,Q4,2025,165,Consumer/retail,Expansion,"Fresh lease; 5-year lease","C&W; Business Today"
+Smartworks,ORR,575000,Q1,2026,90,Flex/managed office,Expansion,Fresh lease,"C&W; Smartworks; Meraqi"
+Tablespace,ORR,102000,Q1,2026,N/A,Flex/managed office,N/A,Fresh lease,C&W
+Beckman Coulter,Whitefield,240000,Q1,2026,N/A,Healthcare/diagnostics,N/A,Fresh lease,C&W
+Caterpillar,Whitefield,200000,Q1,2026,N/A,Engineering & manufacturing,N/A,Fresh lease,C&W
+DHR Holding (Danaher),Whitefield,180121,Q1,2026,74.2,Life sciences/diagnostics,Expansion,5-year lease,Realty Today
+Volvo,ORR,600000,Q2,2026,N/A,Engineering & manufacturing,N/A,Precommitment,C&W
+Ericsson,ORR,300000,Q2,2026,N/A,Telecom/technology,N/A,Fresh lease,C&W
+Sonata,Electronic City,118170,Q2,2026,N/A,IT services,N/A,Term renewal,C&W
+Expedia,ORR,131000,Q2,2026,114,Travel technology,N/A,Fresh lease,"C&W; Meraqi"
+Capital One Services,Whitefield,230000,Q2,2026,122,BFSI,N/A,N/A,Meraqi
+American Express,ORR,130000,Q2,2026,116,BFSI,N/A,N/A,Meraqi
+Cowrks (HSBC),ORR,110000,Q2,2026,114,Flex/managed office,N/A,N/A,Meraqi
+IndiQube,ORR,180000,Q2,2026,82,Flex/managed office,N/A,N/A,Meraqi
